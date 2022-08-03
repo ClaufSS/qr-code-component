@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/qrcodecomponent-solution-using-flexbox--lOereex2u)
-- Live Site URL: (https://claufss.github.io/qr-code-component)
+- [Solution URL](https://www.frontendmentor.io/solutions/qrcodecomponent-solution-using-flexbox--lOereex2u)
+- [Live Site URL](https://claufss.github.io/qr-code-component)
 
 ## My process
 
@@ -37,4 +37,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@ClaufSS](https://www.frontendmentor.io/profile/ClaufSS)
-- Github - [claufSS](https://github.com/claufss)
