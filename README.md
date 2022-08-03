@@ -9,10 +9,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
@@ -39,6 +38,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Frontend Mentor - [@ClaufSS](https://www.frontendmentor.io/profile/ClaufSS)
 - Github - [claufSS](https://github.com/claufss)
-
-## Acknowledgments
-
